@@ -1,0 +1,19 @@
+
+div.task {
+
+	background-color: green;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+}
+
+div.task_title {
+
+	font: 12pt arial;
+	text-decoration: underline;
+}
+
+div.task_description {
+
+	font: 10pt sans-serif;
+}
